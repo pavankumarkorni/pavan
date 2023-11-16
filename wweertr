@@ -1,0 +1,1 @@
+mongoimport --db res3 --collection restaurants --file /home/labuser/primer-dataset.json
